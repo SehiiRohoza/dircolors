@@ -13,7 +13,7 @@ Setup:
 	Add the following to ~/.bash_profile
 	
 	# ~/.dircolors/themefile
-	eval $(gdircolors ~/.dircolors/dircolors.256dark)
+	eval $(dircolors ~/.dircolors/dircolors.256dark)
 
 	# Aliases
 	alias ls='gls --color=auto'
